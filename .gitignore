@@ -2,7 +2,7 @@
 *.PrjPCBStructure
 *.SchDocPreview
 *.PcbDocPreview
-*\__Previews
-*\History
+*/__Previews
+*/History
 *.PrjPcbStructure
 *~$*
