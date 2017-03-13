@@ -1,0 +1,3882 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\19inch.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\19inch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 6
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\40xx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\40xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 87
+    Load DeviceSets 87
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\41xx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\41xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 5
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\45xx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\45xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 64
+    Load DeviceSets 60
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74ac-logic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74ac-logic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    Load Symbols 79
+    Load DeviceSets 71
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74ttl-din.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74ttl-din.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 199
+    Load DeviceSets 165
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74xx-eu.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74xx-eu.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 350
+    Load DeviceSets 332
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74xx-little-de.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74xx-little-de.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 21
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74xx-little-us.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74xx-little-us.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 21
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\74xx-us.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\74xx-us.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 32
+    Load Symbols 364
+    Load DeviceSets 329
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\751xx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\751xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 14
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\advanced-test-technologies.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\advanced-test-technologies.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\agilent-technologies.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\agilent-technologies.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\allegro.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\allegro.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 16
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\altera.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\altera.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 549
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\altera-cyclone-II.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\altera-cyclone-II.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 25
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\altera-cyclone-III.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\altera-cyclone-III.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\altera-stratix-iv.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\altera-stratix-iv.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 38
+    Load DeviceSets 38
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\am29-memory.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\am29-memory.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 22
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\amd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\amd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\amd-mach.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\amd-mach.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 40
+    Load DeviceSets 31
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\amis.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\amis.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\analog-devices.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\analog-devices.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 79
+    Load Symbols 139
+    Load DeviceSets 164
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\aplus.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\aplus.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ase.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ase.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\atmel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\atmel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 60
+    Load Symbols 103
+    Load DeviceSets 90
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\austriamicrosystems.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\austriamicrosystems.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\avago.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\avago.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 8
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\axis.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\axis.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\battery.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\battery.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 43
+    Load Symbols 21
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\belton-engineering.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\belton-engineering.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\burr-brown.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\burr-brown.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 61
+    Load Symbols 156
+    Load DeviceSets 198
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\busbar.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\busbar.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 9
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\buzzer.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\buzzer.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 39
+    Load Symbols 6
+    Load DeviceSets 36
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\california-micro-devices.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\california-micro-devices.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\capacitor-wima.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\capacitor-wima.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 45
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\chipcard-siemens.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\chipcard-siemens.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 5
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\cirrus-logic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\cirrus-logic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-3m.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-3m.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 62
+    Load Symbols 18
+    Load DeviceSets 30
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-4ucon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-4ucon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 295
+    Load Symbols 96
+    Load DeviceSets 228
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-champ.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-champ.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 8
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amphenol.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amphenol.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 10
+    Load DeviceSets 12
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-micromatch.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-micromatch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 2
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-mt.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-mt.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 51
+    Load Symbols 4
+    Load DeviceSets 50
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-mt6.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-mt6.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 2
+    Load DeviceSets 12
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-quick.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-quick.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 30
+    Load Symbols 17
+    Load DeviceSets 60
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-amp-te.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-amp-te.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 2
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-avx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-avx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-berg.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-berg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-bosch.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-bosch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-chipcard-iso7816.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-chipcard-iso7816.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-coax.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-coax.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 4
+    Load DeviceSets 20
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-commcon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-commcon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 7
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-conrad.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-conrad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 7
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-cpci.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-cpci.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 25
+    Load Symbols 11
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-cui.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-cui.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-cypressindustries.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-cypressindustries.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 13
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-deutsch.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-deutsch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 4
+    Load DeviceSets 27
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-dil.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-dil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 24
+    Load Symbols 16
+    Load DeviceSets 44
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-ebyelectro.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-ebyelectro.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 2
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-elco.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-elco.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 3
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-erni.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-erni.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 5
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-faston.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-faston.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-fci.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-fci.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-friwo.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-friwo.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-garry.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-garry.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 24
+    Load Symbols 2
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-harting.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-harting.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 29
+    Load Symbols 16
+    Load DeviceSets 26
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-harting-h.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-harting-h.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 11
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-harting-ml.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-harting-ml.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 12
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-harting-v.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-harting-v.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 12
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-hirose.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-hirose.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 71
+    Load Symbols 24
+    Load DeviceSets 66
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-hirschmann.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-hirschmann.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 22
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-jack.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-jack.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-jae.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-jae.lbr
+    Load settings
+    Load layers 61
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 4
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-jst.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-jst.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 24
+    Load Symbols 4
+    Load DeviceSets 23
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-kycon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-kycon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 3
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-kyocera-elco.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-kyocera-elco.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-lemo.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-lemo.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 34
+    Load Symbols 31
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-leotronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-leotronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 93
+    Load Symbols 4
+    Load DeviceSets 93
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-lsta.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-lsta.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 47
+    Load Symbols 25
+    Load DeviceSets 47
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-lstb.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-lstb.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 24
+    Load DeviceSets 41
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-lumberg.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-lumberg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 62
+    Load Symbols 29
+    Load DeviceSets 59
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-ml.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-ml.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 11
+    Load DeviceSets 36
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-molex.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-molex.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 368
+    Load Symbols 33
+    Load DeviceSets 262
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-neutrik_ag.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-neutrik_ag.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 78
+    Load Symbols 7
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-omron.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-omron.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 109
+    Load Symbols 2
+    Load DeviceSets 43
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-panasonic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-panasonic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-panduit.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-panduit.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 2
+    Load DeviceSets 11
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-pc.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-pc.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 19
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-pc104.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-pc104.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 9
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-254.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-254.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 2
+    Load DeviceSets 10
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-3.81.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-3.81.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 6
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-350.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-350.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 23
+    Load Symbols 1
+    Load DeviceSets 23
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-500.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-500.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-508.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-508.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 90
+    Load Symbols 12
+    Load DeviceSets 76
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-762.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-762.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 2
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-me_max.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-me_max.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-mkds_5.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-mkds_5.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-phoenix-smkdsp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-phoenix-smkdsp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 2
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-ptr500.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-ptr500.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 34
+    Load Symbols 2
+    Load DeviceSets 34
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-pulse.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-pulse.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 10
+    Load DeviceSets 10
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-rib.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-rib.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 15
+    Load Symbols 3
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-samtec.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-samtec.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 805
+    Load Symbols 6
+    Load DeviceSets 356
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-shallin.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-shallin.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-shiua-chyuan.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-shiua-chyuan.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-stewart.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-stewart.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-stocko.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-stocko.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 18
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-subd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-subd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 94
+    Load Symbols 35
+    Load DeviceSets 75
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-sullinselectronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-sullinselectronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 16
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-thomas-betts.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-thomas-betts.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 58
+    Load Symbols 3
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-tyco.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-tyco.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-tycoelectronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-tycoelectronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 5
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-vg.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-vg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 112
+    Load Symbols 33
+    Load DeviceSets 122
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-wago.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-wago.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 167
+    Load Symbols 16
+    Load DeviceSets 101
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-wago255.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-wago255.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 101
+    Load Symbols 15
+    Load DeviceSets 99
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-wago-500.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-wago-500.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 4
+    Load DeviceSets 11
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-wago-508.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-wago-508.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 6
+    Load DeviceSets 17
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-weidmueller-sl35.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-weidmueller-sl35.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 184
+    Load Symbols 46
+    Load DeviceSets 184
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-wenzhou-yihua.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-wenzhou-yihua.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-xmultiple.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-xmultiple.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\con-yamaichi.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\con-yamaichi.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 44
+    Load Symbols 28
+    Load DeviceSets 56
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\crystal.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\crystal.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 66
+    Load Symbols 18
+    Load DeviceSets 58
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\csr.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\csr.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\c-trimm.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\c-trimm.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\cypress.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\cypress.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 24
+    Load Symbols 24
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\davicom.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\davicom.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\dc-dc-converter.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\dc-dc-converter.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 12
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\dimensions.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\dimensions.lbr
+    Load settings
+    Load layers 64
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\diode.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\diode.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 206
+    Load Symbols 39
+    Load DeviceSets 205
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\discrete.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\discrete.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\display-hp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\display-hp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 28
+    Load DeviceSets 43
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\display-kingbright.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\display-kingbright.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 6
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\display-lcd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\display-lcd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 16
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\docu-dummy.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\docu-dummy.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 10
+    Load DeviceSets 10
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\dom-key.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\dom-key.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 3
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\eagle-ltspice.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\eagle-ltspice.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 60
+    Load Symbols 6
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ecl.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ecl.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 64
+    Load DeviceSets 54
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\em-microelectronic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\em-microelectronic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\etx-board.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\etx-board.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 8
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\exar.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\exar.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 33
+    Load Symbols 96
+    Load DeviceSets 108
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fairchild-semic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fairchild-semic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\farnell.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\farnell.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fiber-optic-hp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fiber-optic-hp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 8
+    Load DeviceSets 12
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fiber-optic-siemens.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fiber-optic-siemens.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fifo.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fifo.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 19
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\flexipanel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\flexipanel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fox-electronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fox-electronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\frames.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\frames.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    ERROR: Unhandled typeframe
+    Load Symbols 27
+    Load DeviceSets 30
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\freescale.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\freescale.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 18
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ftdichip.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ftdichip.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fujitsu.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fujitsu.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\fuse.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\fuse.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 2
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\gennum.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\gennum.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\halo-electronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\halo-electronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\heatsink.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\heatsink.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 35
+    Load Symbols 5
+    Load DeviceSets 34
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\holes.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\holes.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 30
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\holtek.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\holtek.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 6
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ic-package.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ic-package.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 75
+    Load Symbols 26
+    Load DeviceSets 26
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\inductor-coilcraft.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\inductor-coilcraft.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\inductor-neosid.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\inductor-neosid.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 99
+    Load Symbols 43
+    Load DeviceSets 72
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\inductor-nkl.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\inductor-nkl.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 59
+    Load Symbols 3
+    Load DeviceSets 43
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\inductors.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\inductors.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 83
+    Load Symbols 10
+    Load DeviceSets 77
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\infineon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\infineon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 19
+    Load Symbols 17
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\infineon-tricore.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\infineon-tricore.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 37
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\intersil.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\intersil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\intersil-techwell.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\intersil-techwell.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\IQD-Frequency-Products.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\IQD-Frequency-Products.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 14
+    Load DeviceSets 11
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ir.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ir.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 8
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\isd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\isd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\johanson-technology.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\johanson-technology.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\jump-0r-smd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\jump-0r-smd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\jumper.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\jumper.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 40
+    Load Symbols 21
+    Load DeviceSets 31
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lantronix.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lantronix.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lattice.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lattice.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 37
+    Load DeviceSets 34
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lc-filter.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lc-filter.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\led.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\led.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 116
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 34
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\led-7-segment.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\led-7-segment.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\led-citizen-electronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\led-citizen-electronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\led-lumiled.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\led-lumiled.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lem.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lem.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\linear.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\linear.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 119
+    Load Symbols 157
+    Load DeviceSets 339
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\linear-technology.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\linear-technology.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 42
+    Load DeviceSets 45
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\linx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\linx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\logo.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\logo.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 51
+    Load Symbols 51
+    Load DeviceSets 51
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lprs.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lprs.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lsi-computer-systems.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lsi-computer-systems.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\lumiled.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\lumiled.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\marks.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\marks.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\maxim.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\maxim.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 63
+    Load Symbols 363
+    Load DeviceSets 446
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\maxstream.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\maxstream.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\melexis.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\melexis.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 76
+    Load DeviceSets 79
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-hitachi.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-hitachi.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 44
+    Load DeviceSets 51
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-idt.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-idt.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 54
+    Load Symbols 201
+    Load DeviceSets 301
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-micron.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-micron.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 9
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-motorola-dram.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-motorola-dram.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 17
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-nec.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-nec.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 26
+    Load DeviceSets 29
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-samsung.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-samsung.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 5
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\memory-sram.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\memory-sram.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 19
+    Load Symbols 27
+    Load DeviceSets 28
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\mems.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\mems.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micrel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micrel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\microchip.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\microchip.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 54
+    Load Symbols 144
+    Load DeviceSets 149
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-cyrod.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-cyrod.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-fujitsu.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-fujitsu.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 43
+    Load DeviceSets 74
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-harris.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-harris.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 44
+    Load DeviceSets 43
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-hitachi.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-hitachi.lbr
+    Load settings
+    Load layers 45
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 15
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-infineon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-infineon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-intel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-intel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 48
+    Load Symbols 96
+    Load DeviceSets 76
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-mc68000.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-mc68000.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 25
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-motorola.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-motorola.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 117
+    Load DeviceSets 82
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micron.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micron.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micronas.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micronas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-philips.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-philips.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 60
+    Load Symbols 52
+    Load DeviceSets 35
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\microphon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\microphon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 19
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-renesas.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-renesas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 13
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-samsung.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-samsung.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\micro-siemens.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\micro-siemens.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 57
+    Load Symbols 131
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\microwave.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\microwave.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 7
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\midori-sensor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\midori-sensor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\minicircuits.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\minicircuits.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 10
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\mitsubishi-semiconductor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\mitsubishi-semiconductor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 3
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\motorola-sensor-driver.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\motorola-sensor-driver.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 7
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\murata-filter.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\murata-filter.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\murata-sensor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\murata-sensor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\nanotec.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\nanotec.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\national-instruments.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\national-instruments.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\national-semiconductor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\national-semiconductor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 17
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\nec.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\nec.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\nec-lqfp100-pack.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\nec-lqfp100-pack.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\nrj-semiconductor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\nrj-semiconductor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\omnivision.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\omnivision.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\on-semiconductor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\on-semiconductor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 12
+    Load DeviceSets 12
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\optocoupler.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\optocoupler.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 37
+    Load Symbols 46
+    Load DeviceSets 94
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-honeywell.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-honeywell.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 39
+    Load Symbols 37
+    Load DeviceSets 117
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-honeywell-3000.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-honeywell-3000.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 31
+    Load DeviceSets 65
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-honeywell-4000.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-honeywell-4000.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 28
+    Load DeviceSets 45
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-micro-linear.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-micro-linear.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 3
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-transmittter-hp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-transmittter-hp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 5
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-trans-siemens.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-trans-siemens.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 6
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\opto-vishay.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\opto-vishay.lbr
+    Load settings
+    Load layers 61
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pal.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pal.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 46
+    Load DeviceSets 45
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\philips-semiconductors.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\philips-semiconductors.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\photo-elements.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\photo-elements.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 2
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\piher.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\piher.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 8
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pinhead.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pinhead.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 97
+    Load Symbols 50
+    Load DeviceSets 50
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\plcc-socket.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\plcc-socket.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 19
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pld-intel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pld-intel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 8
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\plxtech.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\plxtech.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 7
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pot.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pot.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 55
+    Load Symbols 4
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pot-vitrohm.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pot-vitrohm.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\pot-xicor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\pot-xicor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ptc-ntc.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ptc-ntc.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 4
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\quantum-research-group.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\quantum-research-group.lbr
+    Load settings
+    Load layers 61
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 4
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\rcl.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\rcl.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 487
+    Load Symbols 12
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\recom-international.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\recom-international.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\rectifier.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\rectifier.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 38
+    Load Symbols 5
+    Load DeviceSets 37
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ref-packages.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ref-packages.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1543
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\ref-packages-longpad.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\ref-packages-longpad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1527
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\relay.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\relay.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 291
+    Load Symbols 59
+    Load DeviceSets 264
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\renesas.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\renesas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 427
+    Load Symbols 15
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-bourns.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-bourns.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 12
+    Load DeviceSets 20
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-dil.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-dil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 8
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-net.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-net.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 15
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-power.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-power.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 89
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-ruf.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-ruf.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-shunt.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-shunt.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 2
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\resistor-sil.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\resistor-sil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 30
+    Load DeviceSets 57
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\rf-micro-devices.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\rf-micro-devices.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 3
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\rf-solutions.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\rf-solutions.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\rohm.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\rohm.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 7
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\roundsolutions.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\roundsolutions.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\semicon-smd-ipc.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\semicon-smd-ipc.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 9
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sensor-comus-group.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sensor-comus-group.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 3
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sensor-heraeus.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sensor-heraeus.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sensor-infratec.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sensor-infratec.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sharp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sharp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\silabs.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\silabs.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 7
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sim-technology.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sim-technology.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\sipex.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\sipex.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\smd-ipc.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\smd-ipc.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 363
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\smd-special.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\smd-special.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 55
+    Load Symbols 9
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\solomon-systech.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\solomon-systech.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\solpad.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\solpad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 1
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\speaker.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\speaker.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\special.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\special.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 77
+    Load Symbols 23
+    Load DeviceSets 27
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\special-drill.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\special-drill.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 16
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\stm32xx.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\stm32xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\st-microelectronics.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\st-microelectronics.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 49
+    Load Symbols 72
+    Load DeviceSets 51
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\supertex.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\supertex.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\supply1.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\supply1.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 29
+    Load DeviceSets 28
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\supply2.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\supply2.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 48
+    Load DeviceSets 48
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 92
+    Load Symbols 54
+    Load DeviceSets 93
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-alps.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-alps.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 3
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-coto.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-coto.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-dil.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-dil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 88
+    Load Symbols 15
+    Load DeviceSets 93
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-misc.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-misc.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 30
+    Load Symbols 14
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-omron.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-omron.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-raychem.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-raychem.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\switch-reed.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\switch-reed.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\telcom.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\telcom.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\telecontrolli.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\telecontrolli.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\telefunken.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\telefunken.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\test-mate.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\test-mate.lbr
+    Load settings
+    Load layers 75
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\testpad.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\testpad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 42
+    Load Symbols 4
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\texas.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\texas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 124
+    Load Symbols 195
+    Load DeviceSets 132
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\texas-sn55-sn75.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\texas-sn55-sn75.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 8
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\toshiba.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\toshiba.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\traco-electronic.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\traco-electronic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 10
+    Load DeviceSets 10
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trafo.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trafo.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 80
+    Load Symbols 18
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trafo-bei.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trafo-bei.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trafo-hammondmfg.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trafo-hammondmfg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trafo-siemens.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trafo-siemens.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 39
+    Load Symbols 10
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trafo-xicon.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trafo-xicon.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transformer-pulse.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transformer-pulse.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 58
+    Load Symbols 13
+    Load DeviceSets 146
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-fet.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-fet.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 45
+    Load Symbols 22
+    Load DeviceSets 96
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-neu-to92.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-neu-to92.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 57
+    Load Symbols 19
+    Load DeviceSets 140
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-npn.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-npn.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 49
+    Load Symbols 7
+    Load DeviceSets 174
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-pnp.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-pnp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 37
+    Load Symbols 3
+    Load DeviceSets 139
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-power.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-power.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 90
+    Load Symbols 27
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\transistor-small-signal.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\transistor-small-signal.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 107
+    Load Symbols 16
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\triac.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\triac.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 35
+    Load Symbols 12
+    Load DeviceSets 23
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\trimble.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\trimble.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 12
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\tripas.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\tripas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\u-blox.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\u-blox.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\uln-udn.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\uln-udn.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 9
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\varistor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\varistor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 90
+    Load Symbols 3
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\v-reg.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\v-reg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 52
+    Load Symbols 13
+    Load DeviceSets 42
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\v-reg-micrel.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\v-reg-micrel.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 3
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\wafer-scale-psd.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\wafer-scale-psd.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 22
+    Load DeviceSets 84
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\wirepad.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\wirepad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 2
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\xicor.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\xicor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\xilinx-virtex-v5.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\xilinx-virtex-v5.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 48
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\xilinx-xc18v.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\xilinx-xc18v.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\xilinx-xc9.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\xilinx-xc9.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\xilinx-xcv.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\xilinx-xcv.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 142
+    Load DeviceSets 142
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\zetex.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\zetex.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 20
+    Load Symbols 16
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\zilog.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\zilog.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 7
+    Load DeviceSets 7
+EndSection
+
+Section : Import Document - C:\EAGLE-7.7.0\lbr\19inch.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE-7.7.0\lbr\con-amp-champ.lbr
+    ERROR: Exception raised! Falha catastrófica
+EndSection
+
+Section : Import Document - C:\EAGLE-7.7.0\lbr\con-harting-h.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE-7.7.0\lbr\con-harting-v.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE-7.7.0\lbr\con-jae.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection

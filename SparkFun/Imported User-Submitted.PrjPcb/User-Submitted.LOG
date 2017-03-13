@@ -1,0 +1,24 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\SparkFun-Eagle-Libraries-master\LilyPad-Wearables.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\SparkFun-Eagle-Libraries-master\LilyPad-Wearables.lbr
+    Load settings
+    Load layers 97
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.7.0\lbr\SparkFun-Eagle-Libraries-master\User-Submitted.lbr
+    Analyzing data of C:\EAGLE-7.7.0\lbr\SparkFun-Eagle-Libraries-master\User-Submitted.lbr
+    Load settings
+    Load layers 141
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    Load Symbols 19
+    Load DeviceSets 18
+EndSection
