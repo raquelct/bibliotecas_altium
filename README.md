@@ -39,19 +39,19 @@
 | Conectores KK             | KK*                 | con-molex.IntLib |
 
 * Atalhos utéis do Altium
-    * '[PCB+SCH]' *Space* to rotate components, change routing orientation
-    * '[PCB+SCH]' *Tab* to change properties of the component you are placing
-    * '[PCB+SCH]' *Page Up/Down* zooms in and out of the design
-    * '[PCB+SCH]' *Ctrl+Mousewheel* zooms in/out
-    * '[PCB+SCH]' *Shift+Mousewheel* pans left/right
-    * '[PCB+SCH]' *Hold Shift while dragging*, makes Altium pan faster.
-    * '[PCB]' *Ctrl+D* Snaps components to the grid, making it easier to align them. If you move multiple components at once, the will probbably result in the being all off the grid.
-    * '[PCB]' *Ctrl+Click* on a net highlights everything connected to that net
-    * '[PCB]' *Q* switches between metric and imperial units
-    * '[PCB]' *P* open the place menu, P __» __T starts the interactive routing tool
-    * '[PCB]' *+/-* change the routing layer, inserting a via in accordance with your current design rules.
-    * '[PCB]' *Ctrl+M* measures the distance between two points
-    * '[PCB]' *L* brings up the layer dialog for showing and hiding the different board layers
+    * `[PCB+SCH]` **Space** to rotate components, change routing orientation
+    * `[PCB+SCH]` **Tab** to change properties of the component you are placing
+    * `[PCB+SCH]` **Page Up/Down** zooms in and out of the design
+    * `[PCB+SCH]` **Ctrl+Mousewheel** zooms in/out
+    * `[PCB+SCH]` **Shift+Mousewheel** pans left/right
+    * `[PCB+SCH]` **Hold Shift while dragging**, makes Altium pan faster.
+    * `[PCB]` **Ctrl+D** Snaps components to the grid, making it easier to align them. If you move multiple components at once, the will probbably result in the being all off the grid.
+    * `[PCB]` **Ctrl+Click** on a net highlights everything connected to that net
+    * `[PCB]` **Q** switches between metric and imperial units
+    * `[PCB]` **P** open the place menu, P __» __T starts the interactive routing tool
+    * `[PCB]` **+/-** change the routing layer, inserting a via in accordance with your current design rules.
+    * `[PCB]` **Ctrl+M** measures the distance between two points
+    * `[PCB]` **L** brings up the layer dialog for showing and hiding the different board layers
 
 ### Como contribuir? ###
 
