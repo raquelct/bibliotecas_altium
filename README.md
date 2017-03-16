@@ -1,5 +1,5 @@
-### Informações do repositório ###
-==================================
+Informações do repositório
+==========================
 
 Repositório para compartilhar bibliotecas do Altium designer e mante-las atualizadas do laboratório LAPADA IFCE.
 
@@ -8,8 +8,8 @@ Repositório para compartilhar bibliotecas do Altium designer e mante-las atuali
 * [Altium TechDocs](http://techdocs.altium.com/)
 * [Aprenda Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos)
 
-### Como Usar? ###
-====================================
+Como Usar?
+----------
 
 Para usar as bibiliotecas clone o repositório ou baixe o .zip e instale no Altium. 
 * Para instalar:
@@ -54,8 +54,8 @@ Para usar as bibiliotecas clone o repositório ou baixe o .zip e instale no Alti
     * `[PCB]` **Ctrl+M** measures the distance between two points
     * `[PCB]` **L** brings up the layer dialog for showing and hiding the different board layers
 
-### Como contribuir? ###
-====================================
+Como contribuir?
+----------------
 
 Para um tutorial completo visite a [Wiki](https://github.com/raquelct/bibliotecas_altium/wiki) *Em progresso*
 
@@ -70,8 +70,8 @@ Para um tutorial completo visite a [Wiki](https://github.com/raquelct/biblioteca
     
 **Apenas edite um componente existente para adicionar um corpo 3D. Caso ache um erro em algum componente abra um issue ou pull request**
   
-### Contato ###
-====================================
+Contato
+-------
 
 * Raquel Teixeira 
     * Email: raquelct97@gmail.com
