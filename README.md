@@ -57,7 +57,7 @@ Para usar as bibiliotecas clone o repositório ou baixe o .zip e instale no Alti
 Como contribuir?
 ----------------
 
-Para um tutorial completo visite a [Wiki](https://github.com/raquelct/bibliotecas_altium/wiki) *Em progresso*
+Para um tutorial completo visite a [Wiki](https://github.com/raquelct/bibliotecas_altium/wiki) **Em progresso*
 
 * [Tutorial de comtribuição com Git do SparkFun](https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun)
 * Criando novos componentes e bibliotecas:
@@ -66,7 +66,7 @@ Para um tutorial completo visite a [Wiki](https://github.com/raquelct/biblioteca
 * Editando componentes exixtentes:
     * [Atualizando componentes](http://techdocs.altium.com/display/ADOH/Keeping+Components+Up-To-Date)
     * [Criando um corpo 3D](http://techdocs.altium.com/display/ADRR/PCB_Obj-3DBody((3D+Body))_AD)
-    * **Use o [3D ContentCentral](https://www.3dcontentcentral.com/Default.aspx) para baixar modelos 3D para os componentes**
+    * **Use o **[3D ContentCentral](https://www.3dcontentcentral.com/Default.aspx)** para baixar modelos 3D para os componentes**
     
 **Apenas edite um componente existente para adicionar um corpo 3D. Caso ache um erro em algum componente abra um issue ou pull request**
   
