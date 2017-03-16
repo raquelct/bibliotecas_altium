@@ -1,9 +1,10 @@
 # README #
 
-### Informações do repositório? ###
+### Informações do repositório ###
 
 * Repositório para armazenar bibliotecas do Altium designer e mante-las atualizadas.
 * 1.0
+* [Altium TechDocs](http://techdocs.altium.com/)
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Como Usar? ###
@@ -15,7 +16,7 @@
     * Na aba installed vá em Install -> Install from file;
     * Vá na pasta baixada e na barra de pesquisa digite **.IntLib*;
     * Selecione todos os arquivos clique em abrir. 
-* Componentes mais usados
+* Componentes mais usados:
 
 | Componente              | Referência          | Biblioteca     |
 | ----------------------- | ------------------- | -------------- |
@@ -31,7 +32,10 @@
 | Led 3mm                 | LED3MM              | led.IntLib     |
 | Led SMD                 | LEDCHIP-LED0805     | led.IntLib     |
 | Barra de pinos          | PINHD-*n*X*m*       | pinhead.IntLib |
-| Borne                  | AK500/2             | con-ptr500.IntLib |
+| Borne                   | AK500/2             | con-ptr500.IntLib |
+| Power Jack              | JACK-PLUG0          | con-jack.IntLib |
+| Conector RJ45           | RJ45*               | con-tycoeletronics.IntLib |
+| Conector KK             | KK*                 | con-molex.IntLib |
 
 * Atalhos utéis do Altium
     * [PCB+SCH] Space to rotate components, change routing orientation
