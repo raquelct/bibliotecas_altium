@@ -68,7 +68,7 @@ Para um tutorial completo visite a [Wiki](https://github.com/raquelct/biblioteca
     * [Criando um corpo 3D](http://techdocs.altium.com/display/ADRR/PCB_Obj-3DBody((3D+Body))_AD)
     * **Use o [3D ContentCentral](https://www.3dcontentcentral.com/Default.aspx) para baixar modelos 3D para os componentes**
     
-**Apenas edite um componente existente para adicionar um corpo 3D. Caso ache um erro em algum componente abra um issue ou pull request**
+Apenas edite um componente existente para adicionar um corpo 3D. Caso ache um erro em algum componente abra um issue ou pull request.
   
 Contato
 -------
