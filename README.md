@@ -10,11 +10,11 @@
 
 * Para usar as bibiliotecas clone o repositório ou baixe o .zip e instale no Altium. Caso faça mudanças faça commit para manter sempre as bibliotecas atualizadas.
 * Para instalar:
-  * Abra o Altium;
-  * Vá em Libraries;
-  * Na aba installed vá em Install -> Install from file;
-  * Vá na pasta baixada e na barra de pesquisa digite "*.IntLib" (Sem aspas);
-  * Selecione todos os arquivos clique em abrir. 
+    * Abra o Altium;
+    * Vá em Libraries;
+    * Na aba installed vá em Install -> Install from file;
+    * Vá na pasta baixada e na barra de pesquisa digite **.IntLib*;
+    * Selecione todos os arquivos clique em abrir. 
 * Componentes mais usados
 
 | Componente              | Referência          | Biblioteca     |
@@ -34,30 +34,30 @@
 | Borne                  | AK500/2             | con-ptr500.IntLib |
 
 * Atalhos utéis do Altium
->>* [PCB+SCH] Space to rotate components, change routing orientation
->>* [PCB+SCH] Tab to change properties of the component you are placing
->>* [PCB+SCH] Page Up/Down zooms in and out of the design
->>* [PCB+SCH] Ctrl+Mousewheel zooms in/out
->>* [PCB+SCH] Shift+Mousewheel pans left/right
->>* [PCB+SCH] Hold Shift while dragging, makes Altium pan faster.
->>* [PCB] Ctrl+D Snaps components to the grid, making it easier to align them. If you move multiple components at once, the will probbably result in the being all off the grid.
->>* [PCB] Ctrl+Click on a net highlights everything connected to that net
->>* [PCB] Q switches between metric and imperial units
->>* [PCB] P open the place menu, P __» __T starts the interactive routing tool
->>* [PCB] +/- change the routing layer, inserting a via in accordance with your current design rules.
->>* [PCB] Ctrl+M measures the distance between two points
->>* [PCB] L brings up the layer dialog for showing and hiding the different board layers
+    * [PCB+SCH] Space to rotate components, change routing orientation
+    * [PCB+SCH] Tab to change properties of the component you are placing
+    * [PCB+SCH] Page Up/Down zooms in and out of the design
+    * [PCB+SCH] Ctrl+Mousewheel zooms in/out
+    * [PCB+SCH] Shift+Mousewheel pans left/right
+    * [PCB+SCH] Hold Shift while dragging, makes Altium pan faster.
+    * [PCB] Ctrl+D Snaps components to the grid, making it easier to align them. If you move multiple components at once, the will probbably result in the being all off the grid.
+    * [PCB] Ctrl+Click on a net highlights everything connected to that net
+    * [PCB] Q switches between metric and imperial units
+    * [PCB] P open the place menu, P __» __T starts the interactive routing tool
+    * [PCB] +/- change the routing layer, inserting a via in accordance with your current design rules.
+    * [PCB] Ctrl+M measures the distance between two points
+    * [PCB] L brings up the layer dialog for showing and hiding the different board layers
 
 ### Como contribuir? ###
 
 * Criando novos componentes e bibliotecas
-  * Criando componentes: http://techdocs.altium.com/display/ADOH/Creating+Library+Components+Tutorial
-  * Criando bibliotecas: http://techdocs.altium.com/display/ADOH/Building+an+Integrated+Library
+    * Criando componentes: http://techdocs.altium.com/display/ADOH/Creating+Library+Components+Tutorial
+    * Criando bibliotecas: http://techdocs.altium.com/display/ADOH/Building+an+Integrated+Library
 * Editando componentes exixtentes:
-  * Atualizando componentes: http://techdocs.altium.com/display/ADOH/Keeping+Components+Up-To-Date
-  * Criando um corpo 3D: http://techdocs.altium.com/display/ADRR/PCB_Obj-3DBody((3D+Body))_AD
-  * **Use o 3D ContentCentral para baixar modelos 3D para os componentes**
-    * https://www.3dcontentcentral.com/Default.aspx
+    * Atualizando componentes: http://techdocs.altium.com/display/ADOH/Keeping+Components+Up-To-Date
+    * Criando um corpo 3D: http://techdocs.altium.com/display/ADRR/PCB_Obj-3DBody((3D+Body))_AD
+    * **Use o 3D ContentCentral para baixar modelos 3D para os componentes**
+        * https://www.3dcontentcentral.com/Default.aspx
 
 ### A quem pedir ajuda? ###
 
