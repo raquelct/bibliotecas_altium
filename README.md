@@ -16,7 +16,7 @@ Para usar as bibiliotecas clone o repositório ou baixe o .zip e instale no Alti
     * Abra o Altium;
     * Vá em Libraries;
     * Na aba installed vá em Install -> Install from file;
-    * Vá na pasta baixada e no campo de pesquisa digite **.IntLib*;
+    * Vá na pasta baixada e isntale os aquivos **.PCBLIB* e **.SCHLIB*;
     * Selecione todos os arquivos clique em abrir.
     
 * Componentes mais usados:
